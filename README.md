@@ -16,7 +16,7 @@ Hi! I’m **Troy Garcia**, a tech enthusiast and Computer Science student based 
 - **Web Development**: React, Node.js, HTML, CSS
 - **Database Management**: SQL, PostgreSQL, MongoDB
 - **Frameworks & Tools**: Git, Docker, REST APIs
-- **Core Knowledge**: Data Structures, Algorithms, MERN Stack
+- **Core Knowledge**: Data Structures, Algorithm Analysis
 
 #### Skills Proficiency
 
@@ -39,7 +39,7 @@ Coming soon! Check back for some exciting projects I’m working on.
 ---
 
 ### 📬 Let’s Connect
-- **Email**: [troygarcia@icloud.com](mailto:troygarcia@icloud.com)
+- **Email**: [troy_garcia@icloud.com](mailto:troygarcia@icloud.com)
 - **GitHub**: [github.com/grayveins](https://github.com/grayveins)
 
 ---
