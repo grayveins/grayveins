@@ -1,47 +1,34 @@
-# 💻 Troy Garcia
+<h2 align="left">Hi 👋! My name is Troy and I'm a Software Developer from Toronto</h2>
 
-## Aspiring Software Developer
-Blending technology, fitness, and personal growth.
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+</div>
 
-### 📜 About Me
-Hi! I’m **Troy Garcia**, a tech enthusiast and Computer Science student based in Markham, ON. Outside of coding, I enjoy staying active at the gym, reading thought-provoking books, and exploring the open road on my motorcycle.
+###
 
----
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-### 🛠️ Technical Skills
+###
 
-- **Programming Languages**: JavaScript, Python, Java, C/C++
-- **Web Development**: React, Node.js, HTML, CSS
-- **Database Management**: SQL, PostgreSQL, MongoDB
-- **Frameworks & Tools**: Git, Docker, REST APIs
-- **Core Knowledge**: Data Structures, Algorithm Analysis
+<img align="right" height="150" src="https://media1.tenor.com/m/-C5q-q-u23gAAAAd/sasaki-and-miyano-sasaki-to-miyano.gif"  />
 
-#### Skills Proficiency
-
-- **JavaScript**: ![JavaScript](https://progress-bar.dev/90/?title=JavaScript)
-- **React**: ![React](https://progress-bar.dev/85/?title=React)
-- **Python**: ![Python](https://progress-bar.dev/75/?title=Python)
-
----
-
-### 🌟 Highlights
-- Analytical thinker with a passion for solving problems.
-- Enthusiastic about applying technology to enhance everyday life.
-- Committed to personal growth, both mentally and physically.
-
----
-
-### 🖥️ Projects
-Coming soon! Check back for some exciting projects I’m working on.
-
----
-
-### 📬 Let’s Connect
-- **Email**: [troy_garcia@icloud.com](mailto:troygarcia@icloud.com)
-- **GitHub**: [github.com/grayveins](https://github.com/grayveins)
-
----
-
-Made with ❤️ by Troy Garcia
+###
