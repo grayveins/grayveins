@@ -60,4 +60,7 @@
   </a>
 </div>
 
+
+![snake gif](https://github.com/grayveins/grayveins/blob/output/github-snake-dark.svg)
 ###
+
