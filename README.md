@@ -54,13 +54,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/grayveins">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=grayveins&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=thec2yfaxlvr9pjgpv98inkse)
 ![snake gif](https://github.com/grayveins/grayveins/blob/output/github-snake-dark.svg)
 ###
 
