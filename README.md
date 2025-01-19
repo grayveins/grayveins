@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm Troy from Toronto, Ontario<br><br>- 🔭 I’m working as an aspiring Software Developer 💻  and currently pursuing a Bachelor of Science in Computer Science at Ontario Tech University 🎓.<br>- 📚 I'm currently learning more about machine learning 👾, fintech 📈, and advanced web development 🛠️<br>- ⚡ In my free time I enjoy working out 🏋️, riding motorcycles 🏍️,  and constantly learning new technologies  to improve my skills ,🚀</p>
+<p align="left">I'm Troy from Toronto, Ontario<br><br>- 🔭 I’m working as an aspiring Software Developer 💻  and currently pursuing a Bachelor of Science in Computer Science at Ontario Tech University 🎓.<br>- 📚 I'm currently learning more about Machine Learning 👾, Algo Trading 📈, and Advanced Web Development 🛠️<br>- ⚡ In my free time I enjoy working out 🏋️, riding motorcycles 🏍️,  and constantly learning new technologies  to improve my skills ,🚀</p>
 
 ###
 
