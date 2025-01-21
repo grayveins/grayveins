@@ -1,62 +1,76 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/4b/84/b1/4b84b1b5b40033e0a3a0bb2e22b7230d.gif"  />
+  <img height="150" src="https://i.pinimg.com/originals/4b/84/b1/4b84b1b5b40033e0a3a0bb2e22b7230d.gif" />
 </div>
 
 ###
 
 <div align="center">
   <a href="http://www.linkedin.com/in/troyggabriel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="https://instagram.com/your_instagram" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" />
+  </a>
+  <a href="https://discord.com/users/your_discord" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord" />
+  </a>
 </div>
 
 ###
 
-<h1 align="center">Hi there! I'm Troy 👋</h1>
+<h1 align="center">Hello, I'm Troy 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
 ###
 
-<p align="left">I'm Troy from Toronto, Ontario<br><br>- 🔭 I’m working as an aspiring Software Developer 💻  and currently pursuing a Bachelor of Science in Computer Science at Ontario Tech University 🎓.<br>- 📚 I'm currently learning more about Machine Learning 👾, Algo Trading 📈, and Advanced Web Development 🛠️<br>- ⚡ In my free time I enjoy working out 🏋️, riding motorcycles 🏍️,  and constantly learning new technologies  to improve my skills ,🚀</p>
+<p align="left">
+  I'm Troy, an aspiring full-stack developer based in Toronto, Ontario. <br><br>
+  🔭 Currently pursuing a Bachelor of Science in Computer Science at Ontario Tech University 🎓, specializing in full-stack development and leveraging emerging technologies to build scalable, efficient, and innovative solutions.<br><br>
+  🌱 My areas of focus include advanced web development, machine learning, and the intersection of technology and finance. I'm particularly fascinated by financial technology (fintech) and its transformative impact on algorithmic trading, decentralized finance (DeFi), and blockchain-based solutions.<br><br>
+  🚀 Outside of coding, I enjoy exploring new tools and frameworks, staying active through fitness 🏋️, and riding motorcycles 🏍️. I'm passionate about continuously expanding my technical expertise and tackling complex, real-world challenges through software.
+</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠️ Languages and Tools</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
 </div>
 
 ###
 
+<h3 align="left">🎶 Spotify</h3>
+
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=thec2yfaxlvr9pjgpv98inkse)
-![snake gif](https://github.com/grayveins/grayveins/blob/output/github-snake-dark.svg)
+
 ###
 
+![snake gif](https://github.com/grayveins/grayveins/blob/output/github-snake-dark.svg)
