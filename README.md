@@ -2,42 +2,25 @@
   <img height="150" src="https://i.pinimg.com/originals/4b/84/b1/4b84b1b5b40033e0a3a0bb2e22b7230d.gif" />
 </div>
 
-###
-
-<div align="center">
-  <a href="http://www.linkedin.com/in/troyggabriel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/your_instagram" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" />
-  </a>
-  <a href="https://discord.com/users/your_discord" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord" />
-  </a>
-</div>
-
-###
+### 
 
 <h1 align="center">Hello, I'm Troy 👋</h1>
 
 ###
 
-<h3 align="left">👨‍💻 About Me</h3>
+### 👨‍💻 About Me
 
-###
+I'm Troy, an aspiring **full-stack developer** based in **Toronto, Ontario**.  
+Currently pursuing a **Bachelor of Science in Computer Science** at **Ontario Tech University**, I specialize in full-stack development and leveraging emerging technologies to build scalable, efficient, and innovative solutions.
 
-<p align="left">
-  I'm Troy, an aspiring full-stack developer based in Toronto, Ontario. <br><br>
-  🔭 Currently pursuing a Bachelor of Science in Computer Science at Ontario Tech University 🎓, specializing in full-stack development and leveraging emerging technologies to build scalable, efficient, and innovative solutions.<br><br>
-  🌱 My areas of focus include advanced web development, machine learning, and the intersection of technology and finance. I'm particularly fascinated by financial technology (fintech) and its transformative impact on algorithmic trading, decentralized finance (DeFi), and blockchain-based solutions.<br><br>
-  🚀 Outside of coding, I enjoy exploring new tools and frameworks, staying active through fitness 🏋️, and riding motorcycles 🏍️. I'm passionate about continuously expanding my technical expertise and tackling complex, real-world challenges through software.
-</p>
+- 🌱 **Areas of Focus**: Web development, machine learning, fintech (algorithmic trading, DeFi, blockchain).
+- 🚀 **Hobbies**: Fitness 🏋️, motorcycle riding 🏍️, exploring new tech tools and frameworks.
 
-###
+My goal is to create systems that are **both efficient and enjoyable** to use—just like my development environment!
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+---
 
-###
+### 🛠️ Technologies and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
@@ -65,12 +48,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
 </div>
 
-###
+---
 
-<h3 align="left">🎶 Spotify</h3>
+### 🎶 Spotify
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=thec2yfaxlvr9pjgpv98inkse)
 
-###
+---
+
+### Connect with Me
+
+<div align="center">
+  <a href="http://www.linkedin.com/in/troyggabriel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/your_instagram" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" />
+  </a>
+  <a href="https://discord.com/users/your_discord" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord" />
+  </a>
+</div>
+
+---
 
 ![snake gif](https://github.com/grayveins/grayveins/blob/output/github-snake-dark.svg)
