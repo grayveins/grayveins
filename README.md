@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">I'm Troy</h1>
+<h1 align="center">I'm Gray</h1>
 
 ###
 
