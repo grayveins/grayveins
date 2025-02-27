@@ -31,7 +31,7 @@
   Specializing in full-stack development and leveraging emerging technologies to build scalable, efficient, and innovative solutions.<br><br>
   My areas of focus include advanced web development, machine learning, and the intersection of technology and finance. I'm particularly fascinated by financial technology (fintech) and its transformative impact on algorithmic trading, decentralized finance (DeFi), and blockchain-based solutions.<br><br>
  Outside of productivity maxxing, I enjoy exploring new tools and frameworks, bodybuilding/powerlifting, exploring various music genres, reading, and riding motorcycles. 
-  I'm passionate about continuously expanding my technical expertise and tackling complex, real-world challenges through software.
+  I'm passionate about continuously expanding my technical expertise and tackling complex, real-world challenges through the use of innovative software solutions.
 </p>
 
 ###
