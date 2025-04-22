@@ -18,11 +18,11 @@
 
 ###
 
-<h1 align="center">I'm Gray</h1>
+<h1 align="center">Grayveins</h1>
 
 ###
 
-<h3 align="left">A Little About Me</h3>
+<h3 align="left">Hey I'm Gray</h3>
 
 ###
 
