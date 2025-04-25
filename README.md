@@ -1,77 +1,81 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/4b/84/b1/4b84b1b5b40033e0a3a0bb2e22b7230d.gif" />
+  <img src="https://media.tenor.com/xAYj92aUDLIAAAAM/guts.gif" height="180" />
 </div>
 
-###
+<h1 align="center">grayveins</h1>
+<p align="center"><em>Building systems. Trading markets. Optimizing life.</em></p>
 
 <div align="center">
-  <a href="http://www.linkedin.com/in/troyggabriel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/your_instagram" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" />
+  <a href="https://www.linkedin.com/in/troyggabriel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35"/>
   </a>
   <a href="https://discord.com/users/your_discord" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
 
-###
 
-<h1 align="center">Grayveins</h1>
 
-###
+---
 
-<h3 align="left">Hey I'm Gray</h3>
+### About Me
 
-###
+- 💻 Aspiring full-stack developer based in **Toronto**
+- 📈 Fintech & AI enjoyer – interested in trading, startups, and ML
+- ⚙️ Productivity-maxxing with **Neovim**, **Linux**, and **minimal workflows**
+- 🏋️‍♂️ Powerlifter, music lover, and motorcycle rider
+- 🔭 Currently building [**Portfolio Optimization AI**](https://grayveins-portfolio-optimization-ai-streamlit-app-vbhxhb.streamlit.app/) – a smart, GPT-powered S&P500 portfolio tool
 
-<p align="left">
-  I'm Gray, an aspiring full-stack developer based in Toronto, Ontario. <br><br>
-  Specializing in full-stack development and leveraging emerging technologies to build scalable, efficient, and innovative solutions.<br><br>
-  My areas of focus include advanced web development, machine learning, and the intersection of technology and finance. I'm particularly fascinated by financial technology (fintech) and its transformative impact on algorithmic trading, decentralized finance (DeFi), and blockchain-based solutions.<br><br>
- Outside of productivity maxxing, I enjoy exploring new tools and frameworks, bodybuilding/powerlifting, exploring various music genres, reading, and riding motorcycles. 
-  I'm passionate about continuously expanding my technical expertise and tackling complex, real-world challenges through the use of innovative software solutions.
-</p>
+---
 
-###
+### Favorite Tech Stack
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+<blockquote>Tools</blockquote>
 
-###
+<table>
+  <tr>
+    <td align="center"><img src="images/logos/linux_logo.webp" width="40" /><br>Linux</td>
+    <td align="center"><img src="images/logos/neovimio-icon.svg" width="40" /><br>Neovim</td>
+    <td align="center"><img src="images/logos/i3wm.png" width="40" /><br>i3WM</td>
+    <td align="center"><img src="images/logos/obsidian.png" width="40" /><br>Obsidian</td>
+    <td align="center"><img src="images/logos/notion_logo.png" width="40" /><br>Notion</td>
+    <td align="center"><img src="images/logos/git_logo.png" width="40" /><br>Git</td>
+  </tr>
+</table>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
-</div>
+<blockquote>Languages & Frameworks</blockquote>
 
-###
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br>Docker</td>
+  </tr>
+</table>
 
-<h3 align="left">🎶 Spotify</h3>
+---
 
+### Featured Projects
+
+<table>
+  <tr>
+    <td align="center"><a href="https://grayveins-portfolio-optimization-ai-streamlit-app-vbhxhb.streamlit.app">Portfolio Optimization AI </a></td>
+    <td align="center"><a href="#">🔧 C++ Algorithms Mini-Suite (Coming Soon)</a></td>
+  </tr>
+  <tr>
+    <td>A clean, GPT-powered Streamlit app to optimize S&P500 portfolios using CAPM and Black-Litterman.</td>
+    <td>Rebuilding core numerical & DSA concepts in modern C++ for performance and mastery.</td>
+  </tr>
+</table>
+
+---
+
+### Now Playing
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=thec2yfaxlvr9pjgpv98inkse)
 
-###
+---
 
 ![snake gif](https://github.com/grayveins/grayveins/blob/output/github-snake-dark.svg)
