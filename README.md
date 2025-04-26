@@ -14,8 +14,6 @@
   </a>
 </div>
 
-
-
 ---
 
 ### About Me
@@ -62,18 +60,23 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://grayveins-portfolio-optimization-ai-streamlit-app-vbhxhb.streamlit.app">Portfolio Optimization AI </a></td>
+    <td align="center"><a href="https://grayveins-portfolio-optimization-ai-streamlit-app-vbhxhb.streamlit.app">Portfolio Optimization AI</a></td>
     <td align="center"><a href="#">🔧 C++ Algorithms Mini-Suite (Coming Soon)</a></td>
   </tr>
   <tr>
     <td>A clean, GPT-powered Streamlit app to optimize S&P500 portfolios using CAPM and Black-Litterman.</td>
     <td>Rebuilding core numerical & DSA concepts in modern C++ for performance and mastery.</td>
   </tr>
+  <tr>
+    <td><img src="images/illustrations/portfolio_ai.png" width="100%"></td>
+    <td><!-- No image yet for C++ suite --></td>
+  </tr>
 </table>
 
 ---
 
 ### Now Playing
+
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=thec2yfaxlvr9pjgpv98inkse)
 
 ---
