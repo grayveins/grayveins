@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">grayveins</h1>
-<p align="center"><em>Building systems. Trading markets. Optimizing life.</em></p>
+<p align="center"><em>Clean code. Clear ideas. Always building something new.</em></p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/troyggabriel" target="_blank">
