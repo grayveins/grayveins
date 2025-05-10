@@ -61,17 +61,18 @@
 <table>
   <tr>
     <td align="center"><a href="https://grayveins-portfolio-optimization-ai-streamlit-app-vbhxhb.streamlit.app">Portfolio Optimization AI</a></td>
-    <td align="center"><a href="#">🔧 C++ Algorithms Mini-Suite (Coming Soon)</a></td>
+    <td align="center"><a href="https://www.tradingview.com/script/6V8mfP7x-Price-Action-Trader/">Price Action Trader (20 EMA Scalper)</a></td>
   </tr>
   <tr>
     <td>A clean, GPT-powered Streamlit app to optimize S&P500 portfolios using CAPM and Black-Litterman.</td>
-    <td>Rebuilding core numerical & DSA concepts in modern C++ for performance and mastery.</td>
+    <td>A TradingView strategy script built for 1–5 min scalping using EMA, ATR, price action, and 1:2 R:R logic.</td>
   </tr>
   <tr>
     <td><img src="images/illustrations/portfolio_ai.png" width="100%"></td>
-    <td><!-- No image yet for C++ suite --></td>
+    <td><img src="images/illustrations/price_action_trader.png" width="100%"></td>
   </tr>
 </table>
+
 
 ---
 
