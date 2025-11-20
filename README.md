@@ -6,7 +6,7 @@
 <p align="center"><em>Clean code. Clear ideas. Always building something new.</em></p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/troyggarcia" target="_blank">
+  <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="30"/>
   </a>
   <a href="https://discord.com/users/your_discord" target="_blank">
