@@ -18,11 +18,11 @@
 
 ### About Me
 
-- 💻 Aspiring full-stack developer based in **Toronto**
-- 📈 Fintech & AI enjoyer; interested in trading, startups, and ML
-- ⚙️ Productivity-maxxing with **Neovim**, **Linux**, and **minimal workflows**
-- 🏋️‍♂️ Powerlifter, music lover, and motorcycle rider
-- 🔭 Currently building [**Portfolio Optimization AI**](https://grayveins-portfolio-optimization-ai-streamlit-app-vbhxhb.streamlit.app/) – a smart, GPT-powered S&P500 portfolio tool
+- Private Quant Dev based in **Toronto**
+- Fintech & entrepreneur; interested in trading, startups, and ML
+- Productivity-maxxing with **Neovim**, **Linux**, and **minimal workflows**
+- Bodybuilding, Powerlifting, music lover, and motorcycle rider
+- Currently building something big...
 
 ---
 
