@@ -22,7 +22,7 @@
 - Fintech & entrepreneur; interested in trading, startups, and ML
 - Productivity-maxxing with **Neovim**, **Linux**, and **minimal workflows**
 - Bodybuilding, Powerlifting, music lover, and motorcycle rider
-- Currently building something big...
+- Currently building something...
 
 ---
 
