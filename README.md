@@ -60,16 +60,47 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://grayveins-portfolio-optimization-ai-streamlit-app-vbhxhb.streamlit.app">Portfolio Optimization AI</a></td>
-    <td align="center"><a href="https://www.tradingview.com/script/6V8mfP7x-Price-Action-Trader/">Price Action Trader (20 EMA Scalper)</a></td>
+    <td align="center">
+      <a href="https://github.com/grayveins/Coreva"><strong>Coreva</strong></a>
+    </td>
+    <td align="center">
+      <a href="https://grayveins-portfolio-optimization-ai-streamlit-app-vbhxhb.streamlit.app">
+        <strong>Portfolio Optimization AI</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.tradingview.com/script/6V8mfP7x-Price-Action-Trader/">
+        <strong>Price Action Trader (20 EMA Scalper)</strong>
+      </a>
+    </td>
   </tr>
+
   <tr>
-    <td>A clean, GPT-powered Streamlit app to optimize S&P500 portfolios using CAPM and Black-Litterman.</td>
-    <td>A TradingView strategy script built for 1–5 min scalping using EMA, ATR, price action, and 1:2 R:R logic.</td>
+    <td>
+      A full-stack fitness & coaching platform focused on structured training,
+      nutrition logic, and scalable client management.
+      Built with long-term SaaS vision in mind.
+    </td>
+    <td>
+      A GPT-powered Streamlit app for optimizing S&P 500 portfolios using
+      CAPM and Black-Litterman models.
+    </td>
+    <td>
+      A TradingView strategy script for 1–5 min scalping using EMA, ATR,
+      price action, and strict 1:2 risk-reward logic.
+    </td>
   </tr>
+
   <tr>
-    <td><img src="images/illustrations/portfolio_ai.png" width="100%"></td>
-    <td><img src="images/illustrations/price_action_trader.png" width="100%"></td>
+    <td>
+      <img src="images/illustrations/coreva.bmp" width="100%">
+    </td>
+    <td>
+      <img src="images/illustrations/portfolio_ai.png" width="100%">
+    </td>
+    <td>
+      <img src="images/illustrations/price_action_trader.png" width="100%">
+    </td>
   </tr>
 </table>
 
