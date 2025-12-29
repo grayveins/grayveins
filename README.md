@@ -92,16 +92,17 @@
   </tr>
 
   <tr>
-    <td>
-      <img src="images/illustrations/coreva.bmp" width="100%">
+    <td align="center">
+      <img src="images/illustrations/coreva.bmp" height="300">
     </td>
-    <td>
-      <img src="images/illustrations/portfolio_ai.png" width="100%">
+    <td align="center">
+      <img src="images/illustrations/portfolio_ai.png" height="300">
     </td>
-    <td>
-      <img src="images/illustrations/price_action_trader.png" width="100%">
+    <td align="center">
+      <img src="images/illustrations/price_action_trader.png" height="300">
     </td>
   </tr>
+
 </table>
 
 
