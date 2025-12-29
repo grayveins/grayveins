@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">grayveins</h1>
-<p align="center"><em>Clean code. Clear ideas. Always building something new.</em></p>
+<p align="center"><em>Engineering systems at the intersection of software, finance, and fitness.</em></p>
 
 <div align="center">
   <a href="https://www.linkedin.com/" target="_blank">
@@ -18,8 +18,8 @@
 
 ### About Me
 
-- Private Quant Dev based in **Toronto**
-- Fintech & entrepreneur; interested in trading, startups, and ML
+- Computer Science Undergraduate Student
+- Software Engineering; interested in fintech, trading, startups, and ML
 - Productivity-maxxing with **Neovim**, **Linux**, and **minimal workflows**
 - Bodybuilding, Powerlifting, music lover, and motorcycle rider
 - Currently building something...
