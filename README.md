@@ -21,7 +21,7 @@
 - Computer Science Undergraduate Student
 - Software Engineering; interested in fintech, trading, startups, and ML
 - Productivity-maxxing with **Neovim**, **Linux**, and **minimal workflows**
-- Bodybuilding, Powerlifting, music lover, and motorcycle rider
+- Bodybuilder, Powerlifter, music lover, and motorcycle rider
 - Currently building something...
 
 ---
